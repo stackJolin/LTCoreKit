@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LTCoreKit (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LTCoreKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LTCoreKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LTCoreKit: cb6e59406e5f268c9c5bfabb70a890b9dfe7b95a
+
+PODFILE CHECKSUM: 7a7e5e4ed00340dfec27e9add6f2c885c24002a3
+
+COCOAPODS: 1.8.3

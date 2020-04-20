@@ -1,0 +1,6 @@
+framework module LTCoreKit {
+  umbrella header "LTCoreKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_LTCoreKit_Example {
+  umbrella header "Pods-LTCoreKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
